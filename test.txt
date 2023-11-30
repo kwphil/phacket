@@ -1,0 +1,4 @@
+new dir test
+new test/temp.c
+edit test/temp.c replace ALL "it doesn't work!"
+edit test/temp.c append "JK!"
